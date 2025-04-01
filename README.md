@@ -9,6 +9,12 @@ Features
 ✅ State is saved (tasks persist after refresh)
 ✅ Responsive design
 
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/0cbd3b9b-d8ff-471c-9b93-73f4c657d817)
 
 Tech Stack
