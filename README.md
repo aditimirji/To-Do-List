@@ -2,8 +2,8 @@
 To-Do List Webpage: A simple and interactive To-Do List web application that allows users to add, remove, and mark tasks as completed. The state is saved using localStorage, so tasks persist even after refreshing the page.
 
 
-Features
--✅ Add new tasks
+Features<br>
+-✅ Add new tasks<br>
 -✅ Mark tasks as completed
 -✅ Remove tasks
 -✅ State is saved (tasks persist after refresh)
