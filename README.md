@@ -3,11 +3,11 @@ To-Do List Webpage: A simple and interactive To-Do List web application that all
 
 
 Features
-✅ Add new tasks
-✅ Mark tasks as completed
-✅ Remove tasks
-✅ State is saved (tasks persist after refresh)
-✅ Responsive design
+-✅ Add new tasks
+-✅ Mark tasks as completed
+-✅ Remove tasks
+-✅ State is saved (tasks persist after refresh)
+-✅ Responsive design
 
 
 
